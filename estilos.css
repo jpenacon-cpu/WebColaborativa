@@ -1,3 +1,8 @@
+header {
+    color:rgb(35, 114, 199);
+    text-align:center;
+    font-family: Georgia;
+}
 #proyecto {
     background-color: rgb(182, 220, 232);
     color: rgba(7, 163, 36, 0.948);
