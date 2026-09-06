@@ -38,3 +38,36 @@ nav li a:hover {
     margin: 20px;
     border-radius: 8px;
 }
+
+.box-info {
+    background-color: #f4f6f8;
+    border-left: 4px solid #007bff;
+    padding: 15px 20px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.box-info h3 {
+    margin-top: 0;
+    color: #007bff;
+    font-size: 1.1rem;
+}
+
+.box-info ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.box-info li {
+    margin-bottom: 5px;
+}
+
+
+footer {
+    background-color: #1375cb;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    font-size: 0.9rem;
+}
